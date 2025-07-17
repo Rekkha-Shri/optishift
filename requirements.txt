@@ -1,0 +1,4 @@
+kubernetes
+prometheus-api-client
+pandas
+requests
